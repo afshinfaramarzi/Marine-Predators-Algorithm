@@ -1,6 +1,8 @@
 # Marine-Predators-Algorithm
 
-This is the source code of Marine Predators Algorithm (A nature-inspired optimization method) written in MATLAB.
+This is the source code of Marine Predators Algorithm written in MATLAB.
+
+Marine Predators Algorithm (MPA) is a nature-inspired optimization algorithm which follows the rules that naturally govern in optimal foraging strategy and encounter rate policy between predator and prey in marine ecosystems.
 
 Lévy strategy is a widespread pattern among marine predators (e.g. sharks, tunas, marlines) when searching 
 for the food in a prey-sparse environment, but when it comes to foraging in a prey-abundant area, the pattern 
@@ -32,8 +34,6 @@ in marine predators:
 
 * They take advantage of good memory in reminding of their associates as well as the location of successful foraging.
 
-Marine Predators Algorithm (MPA) is a nature-inspired optimization algorithm which follows the rules that naturally govern in optimal 
-foraging strategy and encounters rate policy between predator and prey in marine ecosystems.
 
 Based on the highlights, MPA optimization process is divided into three main phases of optimization considering different 
 velocity ratio and at the same time mimicking the entire life of a predator and prey: (1) in high velocity ratio or when 
