@@ -45,7 +45,7 @@ pace, and (3) in low velocity ratio when predator is moving faster than prey.
 </p>
 
 Besides the three phases defined for optimization, some natural and human-caused environmental issues such as eddy formation
-and FAD’s effect are mathematically modeled to be included in the MPA.
+and FAD’s effect are mathematically modeled to include in the MPA.
 
 MPA’s performance is evaluated against twenty-nine test functions, test suite of CEC-BC-2017, randomly generated landscape,
 three engineering benchmarks, and two real-world engineering design problems in the areas of ventilation and building energy
