@@ -1,6 +1,6 @@
 # Marine-Predators-Algorithm
 
-This is the source code of Marine Predators Algorithm written in MATLAB.
+This is the source code of Marine Predators Algorithm (A nature-inspired optimization method) written in MATLAB.
 
 Lévy strategy is a widespread pattern among marine predators (e.g. sharks, tunas, marlines) when searching 
 for the food in a prey-sparse environment, but when it comes to foraging in a prey-abundant area, the pattern 
