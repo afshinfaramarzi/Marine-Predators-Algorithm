@@ -41,7 +41,7 @@ prey is moving faster than predator, (2) in unit velocity ratio or when both pre
 pace, and (3) in low velocity ratio when predator is moving faster than prey.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afshinfaramarzi/Marine-Predators-Algorithm/master/MPA-Phases.jpg" width="80%"/>
+  <img src="https://raw.githubusercontent.com/afshinfaramarzi/Marine-Predators-Algorithm/master/MPA-Phases.jpg" width="100%"/>
 </p>
 
 Besides the three phases defined for optimization, some natural and human-caused environmental issues such as eddy formation
